@@ -1,0 +1,301 @@
+id,data_entrada,origem,segmento,etapa_atual,data_ultima_movimentacao,valor_potencial,status_final
+L0001,2025-05-13,Site,Varejo,Proposta,2025-05-31,15500,Em Andamento
+L0002,2024-12-09,Site,Indústria,MQL,2025-01-02,13500,Perdido
+L0003,2025-01-26,LinkedIn,Varejo,Proposta,2025-02-25,17000,Perdido
+L0004,2025-02-25,Site,Serviços,MQL,2025-03-16,36000,Perdido
+L0005,2025-03-28,LinkedIn,Serviços,Proposta,2025-04-28,11500,Perdido
+L0006,2024-12-12,Indicação,Varejo,Lead,2024-12-13,9500,Perdido
+L0007,2025-03-08,Site,Varejo,SQL,2025-04-12,31000,Perdido
+L0008,2025-05-05,LinkedIn,Financeiro,Proposta,2025-05-31,39000,Em Andamento
+L0009,2025-05-25,Site,Tech,Fechado,2025-05-31,15000,Perdido
+L0010,2025-01-24,Indicação,Serviços,Lead,2025-01-28,19000,Perdido
+L0011,2025-01-05,Site,Financeiro,MQL,2025-01-27,17500,Em Andamento
+L0012,2025-03-03,Site,Indústria,Negociação,2025-04-25,11000,Em Andamento
+L0013,2025-03-09,Site,Serviços,MQL,2025-03-17,15500,Perdido
+L0014,2025-05-24,Outbound,Varejo,Lead,2025-05-30,3000,Em Andamento
+L0015,2025-01-10,LinkedIn,Varejo,Lead,2025-01-11,3500,Perdido
+L0016,2025-05-10,Site,Financeiro,Lead,2025-05-12,16500,Em Andamento
+L0017,2025-04-18,Outbound,Financeiro,Lead,2025-04-18,12000,Perdido
+L0018,2024-12-29,Outbound,Varejo,SQL,2025-02-10,13500,Em Andamento
+L0019,2024-12-18,Outbound,Financeiro,Lead,2024-12-20,13000,Em Andamento
+L0020,2025-02-06,LinkedIn,Financeiro,Proposta,2025-03-17,9500,Perdido
+L0021,2025-05-21,LinkedIn,Serviços,Fechado,2025-05-31,34500,Ganho
+L0022,2024-12-02,Site,Tech,MQL,2024-12-13,18000,Perdido
+L0023,2025-02-10,Indicação,Indústria,SQL,2025-03-09,15500,Perdido
+L0024,2025-03-15,Site,Tech,Lead,2025-03-22,8000,Em Andamento
+L0025,2024-12-14,Indicação,Tech,Fechado,2025-02-03,14500,Ganho
+L0026,2025-01-16,Site,Indústria,Lead,2025-01-17,16000,Em Andamento
+L0027,2024-12-13,Indicação,Financeiro,MQL,2025-01-05,11000,Perdido
+L0028,2025-01-12,LinkedIn,Serviços,Negociação,2025-04-05,17000,Perdido
+L0029,2025-02-12,LinkedIn,Financeiro,Fechado,2025-03-24,16000,Perdido
+L0030,2024-12-15,Site,Serviços,MQL,2024-12-31,11000,Em Andamento
+L0031,2025-01-17,Site,Tech,Lead,2025-01-20,14000,Em Andamento
+L0032,2025-04-28,LinkedIn,Financeiro,Fechado,2025-05-31,78500,Ganho
+L0033,2025-02-06,Site,Varejo,MQL,2025-02-20,11000,Perdido
+L0034,2025-05-09,Outbound,Tech,Proposta,2025-05-31,10500,Em Andamento
+L0035,2025-02-11,Site,Financeiro,Lead,2025-02-11,40500,Perdido
+L0036,2025-05-20,Indicação,Varejo,Lead,2025-05-24,5000,Em Andamento
+L0037,2024-12-30,Outbound,Financeiro,Proposta,2025-03-04,27000,Em Andamento
+L0038,2025-04-09,LinkedIn,Tech,Fechado,2025-05-31,6000,Ganho
+L0039,2025-03-24,LinkedIn,Serviços,SQL,2025-04-11,5500,Perdido
+L0040,2025-03-05,LinkedIn,Indústria,Proposta,2025-03-31,17000,Em Andamento
+L0041,2025-01-23,Indicação,Tech,SQL,2025-03-02,33500,Perdido
+L0042,2025-01-30,Outbound,Indústria,Lead,2025-02-04,16500,Em Andamento
+L0043,2025-03-16,Indicação,Indústria,Proposta,2025-04-18,13500,Em Andamento
+L0044,2025-03-28,Site,Indústria,MQL,2025-04-09,12000,Em Andamento
+L0045,2025-02-10,Site,Financeiro,MQL,2025-02-18,9000,Em Andamento
+L0046,2025-02-05,Site,Varejo,MQL,2025-03-01,7000,Em Andamento
+L0047,2025-03-22,LinkedIn,Financeiro,MQL,2025-04-04,17500,Em Andamento
+L0048,2024-12-01,LinkedIn,Financeiro,MQL,2024-12-16,47000,Perdido
+L0049,2025-03-21,Site,Varejo,Lead,2025-03-25,14000,Perdido
+L0050,2025-04-09,Site,Serviços,MQL,2025-04-25,4000,Perdido
+L0051,2025-05-20,Outbound,Indústria,Lead,2025-05-20,18000,Em Andamento
+L0052,2025-02-16,Site,Serviços,Lead,2025-02-23,10500,Perdido
+L0053,2025-03-24,LinkedIn,Indústria,SQL,2025-04-28,9500,Perdido
+L0054,2025-02-11,LinkedIn,Financeiro,Proposta,2025-03-15,35000,Perdido
+L0055,2024-12-07,Site,Serviços,Lead,2024-12-13,26000,Perdido
+L0056,2025-05-11,LinkedIn,Serviços,Fechado,2025-05-31,24500,Perdido
+L0057,2025-01-26,Site,Financeiro,MQL,2025-02-10,13500,Perdido
+L0058,2025-01-04,Indicação,Financeiro,Lead,2025-01-11,19500,Perdido
+L0059,2025-05-06,Indicação,Financeiro,MQL,2025-05-22,29500,Em Andamento
+L0060,2025-03-26,Site,Indústria,Lead,2025-04-02,28000,Em Andamento
+L0061,2025-05-10,Site,Serviços,Proposta,2025-05-31,9500,Em Andamento
+L0062,2025-01-29,Site,Indústria,Lead,2025-02-03,13000,Em Andamento
+L0063,2025-04-18,LinkedIn,Tech,Proposta,2025-05-31,10000,Em Andamento
+L0064,2025-04-02,Site,Varejo,SQL,2025-05-05,5000,Perdido
+L0065,2025-04-04,Site,Serviços,SQL,2025-05-12,22500,Perdido
+L0066,2025-03-30,Outbound,Financeiro,Lead,2025-03-30,57000,Perdido
+L0067,2024-12-22,LinkedIn,Indústria,Fechado,2025-03-01,14000,Ganho
+L0068,2025-03-18,Site,Tech,MQL,2025-04-02,39500,Em Andamento
+L0069,2025-05-16,Site,Tech,Lead,2025-05-16,26000,Perdido
+L0070,2025-05-09,Site,Indústria,SQL,2025-05-31,9500,Em Andamento
+L0071,2025-01-12,LinkedIn,Tech,Proposta,2025-03-07,26000,Em Andamento
+L0072,2025-03-12,Outbound,Indústria,MQL,2025-03-24,40000,Perdido
+L0073,2025-05-25,LinkedIn,Tech,Proposta,2025-05-31,20000,Em Andamento
+L0074,2024-12-04,Indicação,Serviços,MQL,2024-12-31,36500,Perdido
+L0075,2025-05-31,Site,Indústria,Lead,2025-05-31,3000,Perdido
+L0076,2025-03-30,LinkedIn,Financeiro,Negociação,2025-05-31,40500,Perdido
+L0077,2025-02-25,Site,Varejo,SQL,2025-04-02,11500,Em Andamento
+L0078,2025-04-22,Site,Indústria,MQL,2025-05-14,12000,Em Andamento
+L0079,2025-05-26,LinkedIn,Serviços,Fechado,2025-05-31,14000,Ganho
+L0080,2025-04-21,LinkedIn,Serviços,Lead,2025-04-28,3500,Perdido
+L0081,2025-02-08,Site,Indústria,Proposta,2025-03-10,13000,Em Andamento
+L0082,2025-01-25,Indicação,Varejo,MQL,2025-02-06,14000,Em Andamento
+L0083,2025-01-19,Site,Varejo,Proposta,2025-03-09,29000,Em Andamento
+L0084,2025-05-28,Outbound,Serviços,Proposta,2025-05-31,9500,Perdido
+L0085,2025-04-02,Site,Tech,SQL,2025-04-24,12000,Em Andamento
+L0086,2024-12-22,Outbound,Tech,Lead,2024-12-25,15000,Em Andamento
+L0087,2025-04-13,Site,Serviços,MQL,2025-04-29,24000,Em Andamento
+L0088,2025-05-06,Outbound,Tech,Lead,2025-05-10,25500,Em Andamento
+L0089,2025-05-19,Site,Indústria,Proposta,2025-05-31,10500,Em Andamento
+L0090,2025-01-29,Site,Varejo,Lead,2025-02-01,15500,Em Andamento
+L0091,2025-02-06,Indicação,Financeiro,MQL,2025-02-24,25000,Em Andamento
+L0092,2025-05-15,Site,Varejo,Lead,2025-05-19,21000,Em Andamento
+L0093,2025-05-02,Indicação,Financeiro,Lead,2025-05-06,15000,Em Andamento
+L0094,2025-05-29,LinkedIn,Varejo,Fechado,2025-05-31,9000,Ganho
+L0095,2024-12-24,Site,Financeiro,Lead,2024-12-28,18500,Em Andamento
+L0096,2025-04-27,Site,Indústria,MQL,2025-05-12,5500,Perdido
+L0097,2025-05-12,Indicação,Tech,Fechado,2025-05-31,25000,Ganho
+L0098,2025-05-19,Outbound,Financeiro,Negociação,2025-05-31,28000,Em Andamento
+L0099,2025-05-18,Outbound,Serviços,Proposta,2025-05-31,13500,Em Andamento
+L0100,2025-01-22,Site,Indústria,Lead,2025-01-29,12500,Em Andamento
+L0101,2025-01-01,Site,Financeiro,Lead,2025-01-01,9500,Perdido
+L0102,2025-04-21,LinkedIn,Indústria,Lead,2025-04-22,11000,Perdido
+L0103,2025-05-15,Indicação,Serviços,Lead,2025-05-19,10500,Em Andamento
+L0104,2025-03-17,Indicação,Serviços,Proposta,2025-04-14,8000,Em Andamento
+L0105,2025-02-09,Indicação,Serviços,Negociação,2025-04-21,12000,Em Andamento
+L0106,2025-01-08,LinkedIn,Serviços,Fechado,2025-04-11,17500,Ganho
+L0107,2025-04-26,Site,Serviços,MQL,2025-05-21,45500,Perdido
+L0108,2025-03-09,Outbound,Indústria,Lead,2025-03-14,16500,Em Andamento
+L0109,2024-12-26,Outbound,Serviços,MQL,2025-01-10,15500,Em Andamento
+L0110,2025-05-17,Outbound,Tech,Lead,2025-05-23,19500,Perdido
+L0111,2025-05-16,Site,Varejo,Lead,2025-05-21,3000,Perdido
+L0112,2025-05-10,Indicação,Serviços,Proposta,2025-05-31,13000,Em Andamento
+L0113,2025-03-22,Outbound,Tech,Lead,2025-03-22,21500,Perdido
+L0114,2025-02-22,Indicação,Varejo,Fechado,2025-04-09,55000,Ganho
+L0115,2025-05-06,Outbound,Financeiro,Lead,2025-05-08,21000,Em Andamento
+L0116,2025-01-29,LinkedIn,Varejo,Proposta,2025-03-17,13500,Perdido
+L0117,2024-12-19,LinkedIn,Varejo,Lead,2024-12-23,11000,Em Andamento
+L0118,2025-03-27,Indicação,Indústria,Lead,2025-03-30,7000,Perdido
+L0119,2025-03-08,LinkedIn,Financeiro,Proposta,2025-03-29,49500,Perdido
+L0120,2025-05-05,Indicação,Varejo,Fechado,2025-05-31,18000,Ganho
+L0121,2025-05-10,Site,Tech,SQL,2025-05-30,34500,Perdido
+L0122,2025-02-22,Indicação,Indústria,SQL,2025-03-28,8000,Em Andamento
+L0123,2025-01-12,Site,Serviços,Lead,2025-01-17,33000,Em Andamento
+L0124,2024-12-30,LinkedIn,Tech,MQL,2025-01-23,8500,Perdido
+L0125,2025-04-22,Site,Serviços,MQL,2025-05-13,19500,Em Andamento
+L0126,2025-04-29,Site,Varejo,Proposta,2025-05-31,46000,Em Andamento
+L0127,2025-05-15,Site,Serviços,Lead,2025-05-16,7000,Em Andamento
+L0128,2025-01-05,Site,Tech,Proposta,2025-02-21,14500,Perdido
+L0129,2025-05-21,Outbound,Financeiro,MQL,2025-05-31,25000,Em Andamento
+L0130,2025-04-05,LinkedIn,Varejo,Proposta,2025-05-04,8000,Em Andamento
+L0131,2025-04-19,Outbound,Varejo,SQL,2025-05-31,4000,Perdido
+L0132,2024-12-24,Indicação,Financeiro,Lead,2024-12-27,24500,Em Andamento
+L0133,2025-01-02,Indicação,Indústria,Negociação,2025-02-07,7500,Perdido
+L0134,2025-02-09,Outbound,Indústria,Lead,2025-02-11,20000,Em Andamento
+L0135,2024-12-29,Indicação,Tech,Proposta,2025-01-31,11500,Perdido
+L0136,2025-01-02,Indicação,Financeiro,Fechado,2025-02-21,64500,Ganho
+L0137,2025-05-18,LinkedIn,Serviços,SQL,2025-05-31,8000,Perdido
+L0138,2025-04-05,Indicação,Serviços,Fechado,2025-05-31,11000,Ganho
+L0139,2025-03-08,Outbound,Financeiro,MQL,2025-03-28,40000,Em Andamento
+L0140,2025-05-17,Indicação,Financeiro,Fechado,2025-05-31,10500,Ganho
+L0141,2025-02-19,LinkedIn,Varejo,SQL,2025-04-01,13000,Em Andamento
+L0142,2024-12-24,LinkedIn,Varejo,Proposta,2025-01-23,26000,Perdido
+L0143,2025-03-01,Outbound,Serviços,Lead,2025-03-05,4500,Perdido
+L0144,2025-03-01,Site,Financeiro,MQL,2025-03-14,26500,Em Andamento
+L0145,2025-04-22,Site,Varejo,MQL,2025-05-11,13000,Perdido
+L0146,2025-05-05,Outbound,Varejo,SQL,2025-05-29,18500,Perdido
+L0147,2025-01-16,Outbound,Financeiro,Lead,2025-01-16,10500,Em Andamento
+L0148,2024-12-24,Indicação,Indústria,Fechado,2025-03-15,6500,Perdido
+L0149,2024-12-14,Site,Financeiro,Proposta,2025-01-26,33000,Em Andamento
+L0150,2025-01-25,Indicação,Tech,Proposta,2025-02-27,25000,Em Andamento
+L0151,2025-01-26,Site,Financeiro,SQL,2025-03-09,28000,Perdido
+L0152,2025-02-13,Site,Tech,Proposta,2025-04-04,26000,Perdido
+L0153,2024-12-19,Site,Tech,Proposta,2025-02-02,13500,Perdido
+L0154,2025-02-13,Site,Tech,Lead,2025-02-20,24000,Em Andamento
+L0155,2025-05-26,Outbound,Tech,SQL,2025-05-31,25000,Em Andamento
+L0156,2025-02-18,Indicação,Indústria,Fechado,2025-04-24,9500,Perdido
+L0157,2025-05-15,Indicação,Indústria,Negociação,2025-05-31,49500,Perdido
+L0158,2025-03-29,Indicação,Financeiro,MQL,2025-04-20,32000,Perdido
+L0159,2025-05-10,Site,Serviços,Proposta,2025-05-31,6000,Perdido
+L0160,2025-02-18,LinkedIn,Tech,Proposta,2025-04-13,31500,Em Andamento
+L0161,2025-03-29,LinkedIn,Tech,Fechado,2025-05-10,11000,Ganho
+L0162,2024-12-27,Indicação,Varejo,Lead,2024-12-29,18500,Em Andamento
+L0163,2024-12-11,Site,Serviços,Lead,2024-12-13,28000,Em Andamento
+L0164,2025-03-04,Site,Varejo,MQL,2025-03-16,6500,Perdido
+L0165,2024-12-17,Site,Financeiro,Lead,2024-12-19,44000,Em Andamento
+L0166,2025-02-24,Site,Indústria,Lead,2025-03-02,19500,Em Andamento
+L0167,2025-01-03,LinkedIn,Tech,Proposta,2025-03-05,35500,Em Andamento
+L0168,2025-05-15,Indicação,Financeiro,Negociação,2025-05-31,81000,Perdido
+L0169,2025-01-09,Site,Tech,MQL,2025-01-24,17500,Perdido
+L0170,2025-05-19,Site,Financeiro,Proposta,2025-05-31,14500,Em Andamento
+L0171,2025-03-23,Site,Varejo,Lead,2025-03-27,6000,Em Andamento
+L0172,2025-03-25,Site,Indústria,MQL,2025-04-17,8500,Em Andamento
+L0173,2025-03-05,Indicação,Financeiro,Lead,2025-03-11,22500,Em Andamento
+L0174,2025-04-08,LinkedIn,Indústria,Fechado,2025-05-31,18500,Perdido
+L0175,2025-04-12,Outbound,Varejo,SQL,2025-05-28,13500,Em Andamento
+L0176,2024-12-24,Outbound,Indústria,Lead,2024-12-30,25500,Perdido
+L0177,2024-12-14,Site,Varejo,MQL,2024-12-26,11000,Em Andamento
+L0178,2024-12-26,Indicação,Varejo,Proposta,2025-01-29,28500,Em Andamento
+L0179,2025-03-25,LinkedIn,Tech,Proposta,2025-05-04,17500,Em Andamento
+L0180,2025-02-12,Site,Tech,SQL,2025-03-07,121000,Em Andamento
+L0181,2025-05-02,LinkedIn,Financeiro,Fechado,2025-05-31,35500,Ganho
+L0182,2025-04-14,Outbound,Tech,Lead,2025-04-14,12000,Em Andamento
+L0183,2025-03-10,Outbound,Tech,Lead,2025-03-10,10500,Perdido
+L0184,2025-03-02,Indicação,Varejo,Proposta,2025-03-29,15000,Em Andamento
+L0185,2025-03-01,LinkedIn,Indústria,SQL,2025-03-21,13000,Em Andamento
+L0186,2024-12-17,Indicação,Serviços,Proposta,2025-01-25,21000,Perdido
+L0187,2025-04-19,LinkedIn,Tech,Proposta,2025-05-29,28000,Em Andamento
+L0188,2025-01-01,Indicação,Serviços,Lead,2025-01-06,12500,Perdido
+L0189,2025-01-17,LinkedIn,Serviços,Fechado,2025-04-29,7500,Ganho
+L0190,2025-04-19,Site,Tech,MQL,2025-05-11,7500,Em Andamento
+L0191,2025-01-12,Indicação,Varejo,SQL,2025-02-11,8500,Perdido
+L0192,2025-05-13,Outbound,Tech,MQL,2025-05-31,36000,Em Andamento
+L0193,2024-12-08,Site,Financeiro,Lead,2024-12-09,27000,Em Andamento
+L0194,2025-01-30,Indicação,Varejo,MQL,2025-02-15,5000,Em Andamento
+L0195,2025-03-05,Site,Tech,MQL,2025-03-26,23000,Em Andamento
+L0196,2025-02-02,Outbound,Tech,Lead,2025-02-03,26500,Em Andamento
+L0197,2025-02-06,Indicação,Serviços,Proposta,2025-03-06,7500,Perdido
+L0198,2025-03-26,Site,Serviços,Lead,2025-03-31,14500,Perdido
+L0199,2025-05-20,Site,Tech,Negociação,2025-05-31,21500,Em Andamento
+L0200,2025-04-10,Site,Indústria,Lead,2025-04-10,7000,Em Andamento
+L0201,2025-03-03,LinkedIn,Varejo,MQL,2025-03-12,14000,Em Andamento
+L0202,2025-02-18,Site,Serviços,MQL,2025-02-28,19000,Perdido
+L0203,2025-02-20,LinkedIn,Serviços,Proposta,2025-04-11,27000,Em Andamento
+L0204,2025-01-03,LinkedIn,Tech,Negociação,2025-03-08,41000,Perdido
+L0205,2024-12-21,Site,Financeiro,MQL,2024-12-31,9500,Perdido
+L0206,2025-05-01,Outbound,Indústria,MQL,2025-05-13,8000,Perdido
+L0207,2024-12-08,Site,Financeiro,SQL,2024-12-29,33000,Perdido
+L0208,2025-05-10,LinkedIn,Varejo,Fechado,2025-05-31,15500,Ganho
+L0209,2025-04-03,LinkedIn,Varejo,Proposta,2025-05-14,15500,Em Andamento
+L0210,2025-03-05,LinkedIn,Tech,Fechado,2025-05-15,253000,Ganho
+L0211,2025-02-02,Outbound,Indústria,Lead,2025-02-07,21500,Perdido
+L0212,2025-01-18,Indicação,Serviços,Lead,2025-01-25,28000,Em Andamento
+L0213,2024-12-06,Site,Serviços,MQL,2024-12-18,24500,Em Andamento
+L0214,2024-12-13,Site,Financeiro,Lead,2024-12-17,36000,Perdido
+L0215,2025-04-17,Site,Tech,MQL,2025-05-12,17000,Perdido
+L0216,2025-03-04,Site,Tech,SQL,2025-04-10,34000,Em Andamento
+L0217,2025-04-20,Site,Financeiro,Lead,2025-04-26,14500,Em Andamento
+L0218,2025-03-06,Indicação,Varejo,Proposta,2025-03-27,9500,Perdido
+L0219,2024-12-10,Site,Varejo,Lead,2024-12-12,8000,Em Andamento
+L0220,2025-02-22,Outbound,Varejo,MQL,2025-03-10,11500,Perdido
+L0221,2025-04-09,Indicação,Financeiro,Fechado,2025-05-31,106500,Ganho
+L0222,2025-05-26,LinkedIn,Financeiro,MQL,2025-05-31,7000,Perdido
+L0223,2024-12-14,LinkedIn,Indústria,Negociação,2025-02-17,23000,Perdido
+L0224,2025-01-18,Site,Varejo,Proposta,2025-03-01,4000,Em Andamento
+L0225,2025-05-30,Site,Indústria,MQL,2025-05-31,11000,Em Andamento
+L0226,2025-01-14,LinkedIn,Financeiro,Proposta,2025-03-13,48000,Em Andamento
+L0227,2025-05-06,LinkedIn,Indústria,SQL,2025-05-31,15500,Perdido
+L0228,2025-05-30,Site,Serviços,SQL,2025-05-31,6500,Perdido
+L0229,2025-01-01,LinkedIn,Financeiro,MQL,2025-01-22,15000,Perdido
+L0230,2025-02-13,Site,Tech,Proposta,2025-04-03,32000,Perdido
+L0231,2025-04-23,Indicação,Indústria,Negociação,2025-05-31,9000,Perdido
+L0232,2024-12-26,LinkedIn,Serviços,Proposta,2025-02-10,15500,Em Andamento
+L0233,2025-04-02,Indicação,Varejo,SQL,2025-05-07,11500,Em Andamento
+L0234,2025-04-16,Indicação,Tech,Lead,2025-04-18,13500,Em Andamento
+L0235,2024-12-10,Outbound,Serviços,Lead,2024-12-14,53500,Em Andamento
+L0236,2024-12-10,Site,Financeiro,Lead,2024-12-14,35500,Perdido
+L0237,2025-03-27,Outbound,Financeiro,Lead,2025-04-03,6500,Perdido
+L0238,2025-02-08,Site,Tech,MQL,2025-02-28,23500,Perdido
+L0239,2024-12-04,Indicação,Varejo,Proposta,2025-02-08,7000,Em Andamento
+L0240,2025-04-11,Site,Serviços,Lead,2025-04-18,23000,Em Andamento
+L0241,2025-02-21,Outbound,Tech,SQL,2025-03-15,12500,Perdido
+L0242,2025-02-05,Indicação,Indústria,Fechado,2025-05-10,13500,Perdido
+L0243,2025-05-26,Site,Varejo,SQL,2025-05-31,15500,Em Andamento
+L0244,2025-03-17,Indicação,Serviços,Proposta,2025-05-05,23500,Em Andamento
+L0245,2025-04-14,LinkedIn,Varejo,Proposta,2025-05-31,5000,Em Andamento
+L0246,2025-01-12,Site,Financeiro,MQL,2025-01-27,19000,Perdido
+L0247,2025-04-10,LinkedIn,Tech,Fechado,2025-05-31,15000,Perdido
+L0248,2025-03-12,Site,Tech,Lead,2025-03-18,13500,Perdido
+L0249,2025-02-27,Indicação,Financeiro,Lead,2025-03-06,74500,Perdido
+L0250,2024-12-09,Site,Indústria,Lead,2024-12-15,19000,Perdido
+L0251,2025-03-06,Outbound,Serviços,Lead,2025-03-12,6000,Perdido
+L0252,2024-12-21,Indicação,Financeiro,MQL,2025-01-11,43000,Em Andamento
+L0253,2025-04-15,Site,Indústria,Lead,2025-04-22,58500,Perdido
+L0254,2025-05-22,Indicação,Serviços,MQL,2025-05-31,26000,Em Andamento
+L0255,2025-02-09,Site,Tech,MQL,2025-02-19,7500,Perdido
+L0256,2025-01-22,Site,Financeiro,MQL,2025-02-01,17000,Perdido
+L0257,2024-12-12,LinkedIn,Indústria,Negociação,2025-02-27,33500,Perdido
+L0258,2025-04-27,LinkedIn,Varejo,SQL,2025-05-27,7000,Em Andamento
+L0259,2025-02-09,Site,Financeiro,Lead,2025-02-15,31500,Perdido
+L0260,2025-04-22,LinkedIn,Varejo,Lead,2025-04-27,18500,Perdido
+L0261,2025-05-28,LinkedIn,Indústria,Fechado,2025-05-31,8000,Perdido
+L0262,2024-12-15,LinkedIn,Serviços,Fechado,2025-03-30,13000,Perdido
+L0263,2024-12-24,LinkedIn,Indústria,Fechado,2025-03-17,3000,Perdido
+L0264,2025-04-02,Site,Varejo,MQL,2025-04-13,5500,Em Andamento
+L0265,2025-04-02,Outbound,Financeiro,Lead,2025-04-07,20000,Em Andamento
+L0266,2025-02-11,Site,Financeiro,Lead,2025-02-18,10500,Em Andamento
+L0267,2025-03-30,Site,Serviços,Lead,2025-04-04,38500,Em Andamento
+L0268,2025-02-19,LinkedIn,Financeiro,Proposta,2025-04-20,9500,Em Andamento
+L0269,2025-02-14,Site,Varejo,MQL,2025-03-06,8500,Em Andamento
+L0270,2025-02-04,Indicação,Serviços,Lead,2025-02-11,14500,Perdido
+L0271,2025-01-13,Indicação,Varejo,Proposta,2025-03-05,28500,Em Andamento
+L0272,2025-04-14,Site,Tech,Lead,2025-04-14,8000,Perdido
+L0273,2025-03-16,Site,Indústria,Proposta,2025-05-13,31500,Perdido
+L0274,2025-05-18,LinkedIn,Tech,Proposta,2025-05-31,21000,Em Andamento
+L0275,2025-04-08,Indicação,Serviços,MQL,2025-04-18,7000,Em Andamento
+L0276,2025-01-31,Site,Financeiro,SQL,2025-03-05,32000,Em Andamento
+L0277,2025-04-24,Site,Indústria,MQL,2025-05-14,17000,Em Andamento
+L0278,2024-12-24,LinkedIn,Serviços,Fechado,2025-04-03,9000,Ganho
+L0279,2025-04-24,Outbound,Tech,Lead,2025-04-27,21500,Perdido
+L0280,2025-05-27,Outbound,Serviços,MQL,2025-05-31,10500,Perdido
+L0281,2025-01-15,Outbound,Varejo,Proposta,2025-02-12,12000,Em Andamento
+L0282,2025-01-11,LinkedIn,Financeiro,Fechado,2025-04-12,36500,Ganho
+L0283,2025-04-08,Indicação,Varejo,Negociação,2025-05-31,31000,Em Andamento
+L0284,2024-12-08,LinkedIn,Serviços,SQL,2025-01-17,6000,Em Andamento
+L0285,2024-12-22,Indicação,Varejo,Fechado,2025-03-28,44500,Ganho
+L0286,2025-02-20,Site,Tech,Fechado,2025-05-07,6000,Ganho
+L0287,2024-12-27,Site,Varejo,MQL,2025-01-22,10000,Perdido
+L0288,2024-12-04,Site,Serviços,Lead,2024-12-07,19500,Perdido
+L0289,2025-04-26,LinkedIn,Serviços,Fechado,2025-05-31,16000,Ganho
+L0290,2024-12-20,Site,Indústria,Lead,2024-12-23,10000,Em Andamento
+L0291,2025-03-28,Site,Varejo,SQL,2025-05-12,9500,Em Andamento
+L0292,2025-03-23,Site,Financeiro,SQL,2025-04-18,17000,Em Andamento
+L0293,2025-03-12,Outbound,Varejo,Lead,2025-03-15,7500,Perdido
+L0294,2025-02-22,Site,Serviços,MQL,2025-03-11,23000,Em Andamento
+L0295,2025-05-24,Indicação,Tech,Lead,2025-05-27,26000,Em Andamento
+L0296,2025-03-23,Indicação,Tech,Proposta,2025-04-26,13000,Em Andamento
+L0297,2025-05-18,Site,Serviços,Lead,2025-05-25,24000,Em Andamento
+L0298,2025-04-29,LinkedIn,Financeiro,Lead,2025-04-29,29000,Perdido
+L0299,2025-03-03,Indicação,Financeiro,MQL,2025-03-18,40000,Em Andamento
+L0300,2025-01-12,LinkedIn,Tech,Proposta,2025-03-16,31000,Perdido
